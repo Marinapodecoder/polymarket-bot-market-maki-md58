@@ -1,4 +1,4 @@
-# 
+# vip Polymarket Trading Bot | portfolio-optimization + gas-optimization offers the most advanced Polymarket trading-bot, with portfolio-optimization and gas-optimization. Ideal for
 
 
 
